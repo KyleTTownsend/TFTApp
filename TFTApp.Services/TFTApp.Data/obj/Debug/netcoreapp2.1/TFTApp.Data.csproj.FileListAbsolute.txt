@@ -1,0 +1,11 @@
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\bin\Debug\netcoreapp2.1\TFTApp.Data.deps.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\bin\Debug\netcoreapp2.1\TFTApp.Data.dll
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.csprojAssemblyReference.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.AssemblyInfoInputs.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.AssemblyInfo.cs
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\bin\Debug\netcoreapp2.1\TFTApp.Data.runtimeconfig.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\bin\Debug\netcoreapp2.1\TFTApp.Data.runtimeconfig.dev.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\bin\Debug\netcoreapp2.1\TFTApp.Data.pdb
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.dll
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Data\obj\Debug\netcoreapp2.1\TFTApp.Data.pdb

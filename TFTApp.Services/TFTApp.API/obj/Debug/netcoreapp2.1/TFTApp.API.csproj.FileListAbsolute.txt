@@ -1,0 +1,14 @@
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\bin\Debug\netcoreapp2.1\TFTApp.API.deps.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\bin\Debug\netcoreapp2.1\TFTApp.API.runtimeconfig.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\bin\Debug\netcoreapp2.1\TFTApp.API.runtimeconfig.dev.json
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\bin\Debug\netcoreapp2.1\TFTApp.API.dll
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.csprojAssemblyReference.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.csproj.CoreCompileInputs.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.RazorAssemblyInfo.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.RazorAssemblyInfo.cs
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.AssemblyInfoInputs.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.AssemblyInfo.cs
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\bin\Debug\netcoreapp2.1\TFTApp.API.pdb
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.dll
+C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.API\obj\Debug\netcoreapp2.1\TFTApp.API.pdb
