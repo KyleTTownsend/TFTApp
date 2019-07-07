@@ -1,9 +1,0 @@
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\bin\Debug\netcoreapp2.1\TFTApp.Library.deps.json
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\bin\Debug\netcoreapp2.1\TFTApp.Library.dll
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\bin\Debug\netcoreapp2.1\TFTApp.Library.pdb
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.csprojAssemblyReference.cache
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.csproj.CoreCompileInputs.cache
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.AssemblyInfoInputs.cache
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.AssemblyInfo.cs
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.dll
-C:\Users\KyleT\Desktop\Engineering\TFTApp\TFTApp.Services\TFTApp.Library\obj\Debug\netcoreapp2.1\TFTApp.Library.pdb
